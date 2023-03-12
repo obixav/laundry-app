@@ -1,0 +1,9 @@
+{
+  "listItems": [
+    { "name": "Analytics Dashboard", "url": "d/", "icon": "home" },
+    { "name": "List Laundry", "url": "app/calendar", "icon": "calendar" },
+    { "name": "New Laundry", "url": "laundry/create", "icon": "grid" },
+    { "name": "Tabular Reporting", "url": "app/invoice/list", "icon": "list" },
+    { "name": "Graphical Reporting", "url": "laundries/graph_report", "icon": "file-text" }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "menu": [
+
+
+    {
+      "navheader": "Admin",
+      "slug": ""
+    },
+
+    {
+      "name": "Laundry",
+      "icon": "shopping-bag",
+      "slug": "",
+      "submenu": [
+        {
+          "url": "laundry",
+          "name": "List",
+          "icon": "circle",
+          "slug": ""
+        },
+        {
+          "url": "laundry/create",
+          "name": "New",
+          "icon": "circle",
+          "slug": ""
+        }
+      ]
+    },
+
+    {
+      "name": "Reporting",
+      "icon": "pie-chart",
+      "slug": "",
+      "submenu": [
+        {
+          "url": "laundries/report",
+          "name": "Tabular Reporting",
+          "icon": "circle",
+          "slug": ""
+        },
+        {
+          "url": "laundries/graph_report",
+          "name": "Graphical Reporting",
+          "icon": "circle",
+          "slug": ""
+        }
+      ]
+    }
+
+
+
+
+
+  ]
+}
